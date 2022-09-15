@@ -16,7 +16,7 @@ export default {
       params: {
         attributes: [
           {
-            fill: "currentcolor",
+            fill: "currentColor",
           },
         ],
       },
