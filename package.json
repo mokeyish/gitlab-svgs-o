@@ -1,0 +1,15 @@
+{
+  "name": "gitlab-svgs-o",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "svg": "scripts/build-svgs.sh",
+    "dev": "node scripts/main.mjs"
+  },
+  "devDependencies": {
+    "glob": "^8.0.3",
+    "mkdirp": "^1.0.4",
+    "rimraf": "^3.0.2",
+    "svgo": "^2.8.0"
+  }
+}
