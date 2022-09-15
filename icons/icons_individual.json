@@ -1,0 +1,1505 @@
+{
+  "illustrationCount": 375,
+  "illustrations": [
+    {
+      "name": "sprite_icons/abuse.svg",
+      "size": 402
+    },
+    {
+      "name": "sprite_icons/accessibility.svg",
+      "size": 1406
+    },
+    {
+      "name": "sprite_icons/account.svg",
+      "size": 1172
+    },
+    {
+      "name": "sprite_icons/admin.svg",
+      "size": 548
+    },
+    {
+      "name": "sprite_icons/api.svg",
+      "size": 1646
+    },
+    {
+      "name": "sprite_icons/appearance.svg",
+      "size": 530
+    },
+    {
+      "name": "sprite_icons/applications.svg",
+      "size": 773
+    },
+    {
+      "name": "sprite_icons/approval-solid.svg",
+      "size": 455
+    },
+    {
+      "name": "sprite_icons/approval.svg",
+      "size": 529
+    },
+    {
+      "name": "sprite_icons/archive.svg",
+      "size": 380
+    },
+    {
+      "name": "sprite_icons/arrow-down.svg",
+      "size": 308
+    },
+    {
+      "name": "sprite_icons/arrow-left.svg",
+      "size": 303
+    },
+    {
+      "name": "sprite_icons/arrow-right.svg",
+      "size": 308
+    },
+    {
+      "name": "sprite_icons/arrow-up.svg",
+      "size": 304
+    },
+    {
+      "name": "sprite_icons/assignee.svg",
+      "size": 552
+    },
+    {
+      "name": "sprite_icons/at.svg",
+      "size": 385
+    },
+    {
+      "name": "sprite_icons/attention-solid-sm.svg",
+      "size": 256
+    },
+    {
+      "name": "sprite_icons/attention-solid.svg",
+      "size": 248
+    },
+    {
+      "name": "sprite_icons/attention.svg",
+      "size": 365
+    },
+    {
+      "name": "sprite_icons/autoplay.svg",
+      "size": 425
+    },
+    {
+      "name": "sprite_icons/bitbucket.svg",
+      "size": 355
+    },
+    {
+      "name": "sprite_icons/bold.svg",
+      "size": 312
+    },
+    {
+      "name": "sprite_icons/book.svg",
+      "size": 400
+    },
+    {
+      "name": "sprite_icons/bookmark.svg",
+      "size": 398
+    },
+    {
+      "name": "sprite_icons/branch-deleted.svg",
+      "size": 573
+    },
+    {
+      "name": "sprite_icons/branch.svg",
+      "size": 495
+    },
+    {
+      "name": "sprite_icons/brand-zoom.svg",
+      "size": 620
+    },
+    {
+      "name": "sprite_icons/bug.svg",
+      "size": 947
+    },
+    {
+      "name": "sprite_icons/bulb.svg",
+      "size": 411
+    },
+    {
+      "name": "sprite_icons/bullhorn.svg",
+      "size": 470
+    },
+    {
+      "name": "sprite_icons/calendar.svg",
+      "size": 385
+    },
+    {
+      "name": "sprite_icons/cancel.svg",
+      "size": 299
+    },
+    {
+      "name": "sprite_icons/canceled-circle.svg",
+      "size": 316
+    },
+    {
+      "name": "sprite_icons/car.svg",
+      "size": 505
+    },
+    {
+      "name": "sprite_icons/chart.svg",
+      "size": 491
+    },
+    {
+      "name": "sprite_icons/check-circle-dashed.svg",
+      "size": 789
+    },
+    {
+      "name": "sprite_icons/check-circle-filled.svg",
+      "size": 311
+    },
+    {
+      "name": "sprite_icons/check-circle.svg",
+      "size": 358
+    },
+    {
+      "name": "sprite_icons/check.svg",
+      "size": 310
+    },
+    {
+      "name": "sprite_icons/cherry-pick-commit.svg",
+      "size": 779
+    },
+    {
+      "name": "sprite_icons/chevron-double-lg-left.svg",
+      "size": 407
+    },
+    {
+      "name": "sprite_icons/chevron-double-lg-right.svg",
+      "size": 401
+    },
+    {
+      "name": "sprite_icons/chevron-down.svg",
+      "size": 293
+    },
+    {
+      "name": "sprite_icons/chevron-left.svg",
+      "size": 292
+    },
+    {
+      "name": "sprite_icons/chevron-lg-down.svg",
+      "size": 300
+    },
+    {
+      "name": "sprite_icons/chevron-lg-left.svg",
+      "size": 302
+    },
+    {
+      "name": "sprite_icons/chevron-lg-right.svg",
+      "size": 300
+    },
+    {
+      "name": "sprite_icons/chevron-lg-up.svg",
+      "size": 302
+    },
+    {
+      "name": "sprite_icons/chevron-right.svg",
+      "size": 293
+    },
+    {
+      "name": "sprite_icons/chevron-up.svg",
+      "size": 292
+    },
+    {
+      "name": "sprite_icons/clear-all.svg",
+      "size": 436
+    },
+    {
+      "name": "sprite_icons/clear.svg",
+      "size": 385
+    },
+    {
+      "name": "sprite_icons/clock.svg",
+      "size": 335
+    },
+    {
+      "name": "sprite_icons/close.svg",
+      "size": 333
+    },
+    {
+      "name": "sprite_icons/cloud-gear.svg",
+      "size": 1359
+    },
+    {
+      "name": "sprite_icons/code.svg",
+      "size": 496
+    },
+    {
+      "name": "sprite_icons/collapse-left.svg",
+      "size": 377
+    },
+    {
+      "name": "sprite_icons/collapse-right.svg",
+      "size": 378
+    },
+    {
+      "name": "sprite_icons/collapse.svg",
+      "size": 448
+    },
+    {
+      "name": "sprite_icons/comment-dots.svg",
+      "size": 481
+    },
+    {
+      "name": "sprite_icons/comment-next.svg",
+      "size": 524
+    },
+    {
+      "name": "sprite_icons/comment.svg",
+      "size": 381
+    },
+    {
+      "name": "sprite_icons/comments.svg",
+      "size": 450
+    },
+    {
+      "name": "sprite_icons/commit.svg",
+      "size": 345
+    },
+    {
+      "name": "sprite_icons/comparison.svg",
+      "size": 662
+    },
+    {
+      "name": "sprite_icons/connected.svg",
+      "size": 698
+    },
+    {
+      "name": "sprite_icons/container-image.svg",
+      "size": 451
+    },
+    {
+      "name": "sprite_icons/copy-to-clipboard.svg",
+      "size": 663
+    },
+    {
+      "name": "sprite_icons/credit-card.svg",
+      "size": 391
+    },
+    {
+      "name": "sprite_icons/dash.svg",
+      "size": 233
+    },
+    {
+      "name": "sprite_icons/dashboard.svg",
+      "size": 699
+    },
+    {
+      "name": "sprite_icons/deployments.svg",
+      "size": 551
+    },
+    {
+      "name": "sprite_icons/details-block.svg",
+      "size": 718
+    },
+    {
+      "name": "sprite_icons/disk.svg",
+      "size": 489
+    },
+    {
+      "name": "sprite_icons/doc-changes.svg",
+      "size": 634
+    },
+    {
+      "name": "sprite_icons/doc-chart.svg",
+      "size": 591
+    },
+    {
+      "name": "sprite_icons/doc-code.svg",
+      "size": 545
+    },
+    {
+      "name": "sprite_icons/doc-compressed.svg",
+      "size": 436
+    },
+    {
+      "name": "sprite_icons/doc-expand.svg",
+      "size": 605
+    },
+    {
+      "name": "sprite_icons/doc-image.svg",
+      "size": 480
+    },
+    {
+      "name": "sprite_icons/doc-new.svg",
+      "size": 535
+    },
+    {
+      "name": "sprite_icons/doc-symlink.svg",
+      "size": 571
+    },
+    {
+      "name": "sprite_icons/doc-text.svg",
+      "size": 511
+    },
+    {
+      "name": "sprite_icons/doc-versions.svg",
+      "size": 445
+    },
+    {
+      "name": "sprite_icons/document.svg",
+      "size": 377
+    },
+    {
+      "name": "sprite_icons/documents.svg",
+      "size": 549
+    },
+    {
+      "name": "sprite_icons/dot-grid.svg",
+      "size": 638
+    },
+    {
+      "name": "sprite_icons/dotted-circle.svg",
+      "size": 1539
+    },
+    {
+      "name": "sprite_icons/double-headed-arrow.svg",
+      "size": 677
+    },
+    {
+      "name": "sprite_icons/download.svg",
+      "size": 453
+    },
+    {
+      "name": "sprite_icons/drag-horizontal.svg",
+      "size": 593
+    },
+    {
+      "name": "sprite_icons/drag-vertical.svg",
+      "size": 595
+    },
+    {
+      "name": "sprite_icons/drag.svg",
+      "size": 771
+    },
+    {
+      "name": "sprite_icons/dumbbell.svg",
+      "size": 470
+    },
+    {
+      "name": "sprite_icons/duplicate.svg",
+      "size": 322
+    },
+    {
+      "name": "sprite_icons/earth.svg",
+      "size": 989
+    },
+    {
+      "name": "sprite_icons/ellipsis_h.svg",
+      "size": 220
+    },
+    {
+      "name": "sprite_icons/ellipsis_v.svg",
+      "size": 221
+    },
+    {
+      "name": "sprite_icons/entity-blocked.svg",
+      "size": 466
+    },
+    {
+      "name": "sprite_icons/environment.svg",
+      "size": 450
+    },
+    {
+      "name": "sprite_icons/epic-closed.svg",
+      "size": 598
+    },
+    {
+      "name": "sprite_icons/epic.svg",
+      "size": 491
+    },
+    {
+      "name": "sprite_icons/error.svg",
+      "size": 333
+    },
+    {
+      "name": "sprite_icons/expand-down.svg",
+      "size": 377
+    },
+    {
+      "name": "sprite_icons/expand-left.svg",
+      "size": 379
+    },
+    {
+      "name": "sprite_icons/expand-right.svg",
+      "size": 379
+    },
+    {
+      "name": "sprite_icons/expand-up.svg",
+      "size": 380
+    },
+    {
+      "name": "sprite_icons/expand.svg",
+      "size": 399
+    },
+    {
+      "name": "sprite_icons/expire.svg",
+      "size": 473
+    },
+    {
+      "name": "sprite_icons/export.svg",
+      "size": 452
+    },
+    {
+      "name": "sprite_icons/external-link.svg",
+      "size": 428
+    },
+    {
+      "name": "sprite_icons/eye-slash.svg",
+      "size": 1217
+    },
+    {
+      "name": "sprite_icons/eye.svg",
+      "size": 553
+    },
+    {
+      "name": "sprite_icons/face-neutral.svg",
+      "size": 389
+    },
+    {
+      "name": "sprite_icons/face-unhappy.svg",
+      "size": 496
+    },
+    {
+      "name": "sprite_icons/false-positive.svg",
+      "size": 583
+    },
+    {
+      "name": "sprite_icons/feature-flag-disabled.svg",
+      "size": 281
+    },
+    {
+      "name": "sprite_icons/feature-flag.svg",
+      "size": 281
+    },
+    {
+      "name": "sprite_icons/file-addition-solid.svg",
+      "size": 367
+    },
+    {
+      "name": "sprite_icons/file-addition.svg",
+      "size": 448
+    },
+    {
+      "name": "sprite_icons/file-deletion-solid.svg",
+      "size": 288
+    },
+    {
+      "name": "sprite_icons/file-deletion.svg",
+      "size": 369
+    },
+    {
+      "name": "sprite_icons/file-modified-solid.svg",
+      "size": 263
+    },
+    {
+      "name": "sprite_icons/file-modified.svg",
+      "size": 344
+    },
+    {
+      "name": "sprite_icons/file-tree.svg",
+      "size": 470
+    },
+    {
+      "name": "sprite_icons/filter.svg",
+      "size": 345
+    },
+    {
+      "name": "sprite_icons/fire.svg",
+      "size": 1269
+    },
+    {
+      "name": "sprite_icons/first-contribution.svg",
+      "size": 890
+    },
+    {
+      "name": "sprite_icons/flag.svg",
+      "size": 491
+    },
+    {
+      "name": "sprite_icons/folder-new.svg",
+      "size": 523
+    },
+    {
+      "name": "sprite_icons/folder-o.svg",
+      "size": 324
+    },
+    {
+      "name": "sprite_icons/folder-open.svg",
+      "size": 470
+    },
+    {
+      "name": "sprite_icons/folder.svg",
+      "size": 324
+    },
+    {
+      "name": "sprite_icons/food.svg",
+      "size": 533
+    },
+    {
+      "name": "sprite_icons/fork.svg",
+      "size": 541
+    },
+    {
+      "name": "sprite_icons/formula.svg",
+      "size": 637
+    },
+    {
+      "name": "sprite_icons/git-merge.svg",
+      "size": 581
+    },
+    {
+      "name": "sprite_icons/git.svg",
+      "size": 1120
+    },
+    {
+      "name": "sprite_icons/github.svg",
+      "size": 824
+    },
+    {
+      "name": "sprite_icons/go-back.svg",
+      "size": 347
+    },
+    {
+      "name": "sprite_icons/google.svg",
+      "size": 385
+    },
+    {
+      "name": "sprite_icons/group.svg",
+      "size": 394
+    },
+    {
+      "name": "sprite_icons/hamburger.svg",
+      "size": 363
+    },
+    {
+      "name": "sprite_icons/heading.svg",
+      "size": 280
+    },
+    {
+      "name": "sprite_icons/heart.svg",
+      "size": 413
+    },
+    {
+      "name": "sprite_icons/history.svg",
+      "size": 423
+    },
+    {
+      "name": "sprite_icons/home.svg",
+      "size": 357
+    },
+    {
+      "name": "sprite_icons/hook.svg",
+      "size": 474
+    },
+    {
+      "name": "sprite_icons/hourglass.svg",
+      "size": 640
+    },
+    {
+      "name": "sprite_icons/image-comment-dark.svg",
+      "size": 322
+    },
+    {
+      "name": "sprite_icons/image-comment-light.svg",
+      "size": 369
+    },
+    {
+      "name": "sprite_icons/import.svg",
+      "size": 453
+    },
+    {
+      "name": "sprite_icons/incognito.svg",
+      "size": 709
+    },
+    {
+      "name": "sprite_icons/information-o.svg",
+      "size": 363
+    },
+    {
+      "name": "sprite_icons/information.svg",
+      "size": 311
+    },
+    {
+      "name": "sprite_icons/infrastructure-registry.svg",
+      "size": 479
+    },
+    {
+      "name": "sprite_icons/issue-block.svg",
+      "size": 555
+    },
+    {
+      "name": "sprite_icons/issue-close.svg",
+      "size": 300
+    },
+    {
+      "name": "sprite_icons/issue-closed.svg",
+      "size": 563
+    },
+    {
+      "name": "sprite_icons/issue-new.svg",
+      "size": 579
+    },
+    {
+      "name": "sprite_icons/issue-open-m.svg",
+      "size": 242
+    },
+    {
+      "name": "sprite_icons/issue-type-enhancement.svg",
+      "size": 325
+    },
+    {
+      "name": "sprite_icons/issue-type-feature-flag.svg",
+      "size": 378
+    },
+    {
+      "name": "sprite_icons/issue-type-feature.svg",
+      "size": 716
+    },
+    {
+      "name": "sprite_icons/issue-type-incident.svg",
+      "size": 306
+    },
+    {
+      "name": "sprite_icons/issue-type-issue.svg",
+      "size": 337
+    },
+    {
+      "name": "sprite_icons/issue-type-maintenance.svg",
+      "size": 341
+    },
+    {
+      "name": "sprite_icons/issue-type-requirements.svg",
+      "size": 558
+    },
+    {
+      "name": "sprite_icons/issue-type-task.svg",
+      "size": 950
+    },
+    {
+      "name": "sprite_icons/issue-type-test-case.svg",
+      "size": 406
+    },
+    {
+      "name": "sprite_icons/issue-update.svg",
+      "size": 476
+    },
+    {
+      "name": "sprite_icons/issues.svg",
+      "size": 464
+    },
+    {
+      "name": "sprite_icons/italic.svg",
+      "size": 282
+    },
+    {
+      "name": "sprite_icons/iteration.svg",
+      "size": 448
+    },
+    {
+      "name": "sprite_icons/key.svg",
+      "size": 357
+    },
+    {
+      "name": "sprite_icons/kubernetes-agent.svg",
+      "size": 824
+    },
+    {
+      "name": "sprite_icons/kubernetes.svg",
+      "size": 3635
+    },
+    {
+      "name": "sprite_icons/label.svg",
+      "size": 493
+    },
+    {
+      "name": "sprite_icons/labels.svg",
+      "size": 681
+    },
+    {
+      "name": "sprite_icons/leave.svg",
+      "size": 351
+    },
+    {
+      "name": "sprite_icons/level-up.svg",
+      "size": 337
+    },
+    {
+      "name": "sprite_icons/license-sm.svg",
+      "size": 427
+    },
+    {
+      "name": "sprite_icons/license.svg",
+      "size": 478
+    },
+    {
+      "name": "sprite_icons/link.svg",
+      "size": 583
+    },
+    {
+      "name": "sprite_icons/linkedin.svg",
+      "size": 515
+    },
+    {
+      "name": "sprite_icons/list-bulleted.svg",
+      "size": 458
+    },
+    {
+      "name": "sprite_icons/list-indent.svg",
+      "size": 452
+    },
+    {
+      "name": "sprite_icons/list-numbered.svg",
+      "size": 478
+    },
+    {
+      "name": "sprite_icons/list-outdent.svg",
+      "size": 452
+    },
+    {
+      "name": "sprite_icons/list-task.svg",
+      "size": 597
+    },
+    {
+      "name": "sprite_icons/live-preview.svg",
+      "size": 415
+    },
+    {
+      "name": "sprite_icons/live-stream.svg",
+      "size": 467
+    },
+    {
+      "name": "sprite_icons/location-dot.svg",
+      "size": 353
+    },
+    {
+      "name": "sprite_icons/location.svg",
+      "size": 358
+    },
+    {
+      "name": "sprite_icons/lock-open.svg",
+      "size": 371
+    },
+    {
+      "name": "sprite_icons/lock.svg",
+      "size": 314
+    },
+    {
+      "name": "sprite_icons/log.svg",
+      "size": 571
+    },
+    {
+      "name": "sprite_icons/long-arrow.svg",
+      "size": 308
+    },
+    {
+      "name": "sprite_icons/mail.svg",
+      "size": 388
+    },
+    {
+      "name": "sprite_icons/marquee-selection.svg",
+      "size": 736
+    },
+    {
+      "name": "sprite_icons/maximize.svg",
+      "size": 382
+    },
+    {
+      "name": "sprite_icons/media-broken.svg",
+      "size": 519
+    },
+    {
+      "name": "sprite_icons/media.svg",
+      "size": 411
+    },
+    {
+      "name": "sprite_icons/merge-request-close-m.svg",
+      "size": 333
+    },
+    {
+      "name": "sprite_icons/merge-request-close.svg",
+      "size": 658
+    },
+    {
+      "name": "sprite_icons/merge-request-open.svg",
+      "size": 581
+    },
+    {
+      "name": "sprite_icons/merge-request.svg",
+      "size": 581
+    },
+    {
+      "name": "sprite_icons/merge.svg",
+      "size": 430
+    },
+    {
+      "name": "sprite_icons/messages.svg",
+      "size": 470
+    },
+    {
+      "name": "sprite_icons/minimize.svg",
+      "size": 382
+    },
+    {
+      "name": "sprite_icons/mobile-issue-close.svg",
+      "size": 310
+    },
+    {
+      "name": "sprite_icons/mobile.svg",
+      "size": 347
+    },
+    {
+      "name": "sprite_icons/monitor-lines.svg",
+      "size": 466
+    },
+    {
+      "name": "sprite_icons/monitor-o.svg",
+      "size": 333
+    },
+    {
+      "name": "sprite_icons/monitor.svg",
+      "size": 520
+    },
+    {
+      "name": "sprite_icons/namespace.svg",
+      "size": 334
+    },
+    {
+      "name": "sprite_icons/nature.svg",
+      "size": 446
+    },
+    {
+      "name": "sprite_icons/notifications-off.svg",
+      "size": 581
+    },
+    {
+      "name": "sprite_icons/notifications.svg",
+      "size": 436
+    },
+    {
+      "name": "sprite_icons/object.svg",
+      "size": 523
+    },
+    {
+      "name": "sprite_icons/overview.svg",
+      "size": 579
+    },
+    {
+      "name": "sprite_icons/package.svg",
+      "size": 390
+    },
+    {
+      "name": "sprite_icons/paper-airplane.svg",
+      "size": 423
+    },
+    {
+      "name": "sprite_icons/paperclip.svg",
+      "size": 455
+    },
+    {
+      "name": "sprite_icons/pause.svg",
+      "size": 300
+    },
+    {
+      "name": "sprite_icons/pencil-square.svg",
+      "size": 441
+    },
+    {
+      "name": "sprite_icons/pencil.svg",
+      "size": 388
+    },
+    {
+      "name": "sprite_icons/pipeline.svg",
+      "size": 586
+    },
+    {
+      "name": "sprite_icons/planning.svg",
+      "size": 487
+    },
+    {
+      "name": "sprite_icons/play.svg",
+      "size": 246
+    },
+    {
+      "name": "sprite_icons/plus-square-o.svg",
+      "size": 448
+    },
+    {
+      "name": "sprite_icons/plus-square.svg",
+      "size": 367
+    },
+    {
+      "name": "sprite_icons/plus.svg",
+      "size": 284
+    },
+    {
+      "name": "sprite_icons/pod.svg",
+      "size": 543
+    },
+    {
+      "name": "sprite_icons/podcast.svg",
+      "size": 496
+    },
+    {
+      "name": "sprite_icons/power.svg",
+      "size": 339
+    },
+    {
+      "name": "sprite_icons/preferences.svg",
+      "size": 413
+    },
+    {
+      "name": "sprite_icons/profile.svg",
+      "size": 471
+    },
+    {
+      "name": "sprite_icons/progress.svg",
+      "size": 288
+    },
+    {
+      "name": "sprite_icons/project.svg",
+      "size": 451
+    },
+    {
+      "name": "sprite_icons/push-rules.svg",
+      "size": 513
+    },
+    {
+      "name": "sprite_icons/question-o.svg",
+      "size": 925
+    },
+    {
+      "name": "sprite_icons/question.svg",
+      "size": 879
+    },
+    {
+      "name": "sprite_icons/quote.svg",
+      "size": 407
+    },
+    {
+      "name": "sprite_icons/redo.svg",
+      "size": 316
+    },
+    {
+      "name": "sprite_icons/remove-all.svg",
+      "size": 438
+    },
+    {
+      "name": "sprite_icons/remove.svg",
+      "size": 438
+    },
+    {
+      "name": "sprite_icons/repeat.svg",
+      "size": 316
+    },
+    {
+      "name": "sprite_icons/requirements.svg",
+      "size": 629
+    },
+    {
+      "name": "sprite_icons/retry.svg",
+      "size": 477
+    },
+    {
+      "name": "sprite_icons/review-checkmark.svg",
+      "size": 449
+    },
+    {
+      "name": "sprite_icons/review-list.svg",
+      "size": 462
+    },
+    {
+      "name": "sprite_icons/review-warning.svg",
+      "size": 416
+    },
+    {
+      "name": "sprite_icons/rocket.svg",
+      "size": 738
+    },
+    {
+      "name": "sprite_icons/rss.svg",
+      "size": 454
+    },
+    {
+      "name": "sprite_icons/scale.svg",
+      "size": 891
+    },
+    {
+      "name": "sprite_icons/scroll-handle.svg",
+      "size": 298
+    },
+    {
+      "name": "sprite_icons/scroll_down.svg",
+      "size": 356
+    },
+    {
+      "name": "sprite_icons/scroll_up.svg",
+      "size": 355
+    },
+    {
+      "name": "sprite_icons/search-dot.svg",
+      "size": 313
+    },
+    {
+      "name": "sprite_icons/search-minus.svg",
+      "size": 351
+    },
+    {
+      "name": "sprite_icons/search-plus.svg",
+      "size": 435
+    },
+    {
+      "name": "sprite_icons/search.svg",
+      "size": 280
+    },
+    {
+      "name": "sprite_icons/settings.svg",
+      "size": 5045
+    },
+    {
+      "name": "sprite_icons/severity-critical.svg",
+      "size": 664
+    },
+    {
+      "name": "sprite_icons/severity-high.svg",
+      "size": 530
+    },
+    {
+      "name": "sprite_icons/severity-info.svg",
+      "size": 570
+    },
+    {
+      "name": "sprite_icons/severity-low.svg",
+      "size": 158
+    },
+    {
+      "name": "sprite_icons/severity-medium.svg",
+      "size": 581
+    },
+    {
+      "name": "sprite_icons/severity-unknown.svg",
+      "size": 1754
+    },
+    {
+      "name": "sprite_icons/share.svg",
+      "size": 449
+    },
+    {
+      "name": "sprite_icons/shield.svg",
+      "size": 384
+    },
+    {
+      "name": "sprite_icons/sidebar.svg",
+      "size": 444
+    },
+    {
+      "name": "sprite_icons/skype.svg",
+      "size": 771
+    },
+    {
+      "name": "sprite_icons/slight-frown.svg",
+      "size": 447
+    },
+    {
+      "name": "sprite_icons/slight-smile.svg",
+      "size": 449
+    },
+    {
+      "name": "sprite_icons/smart-card.svg",
+      "size": 423
+    },
+    {
+      "name": "sprite_icons/smile.svg",
+      "size": 506
+    },
+    {
+      "name": "sprite_icons/smiley.svg",
+      "size": 343
+    },
+    {
+      "name": "sprite_icons/snippet.svg",
+      "size": 508
+    },
+    {
+      "name": "sprite_icons/soft-unwrap.svg",
+      "size": 402
+    },
+    {
+      "name": "sprite_icons/soft-wrap.svg",
+      "size": 433
+    },
+    {
+      "name": "sprite_icons/sort-highest.svg",
+      "size": 482
+    },
+    {
+      "name": "sprite_icons/sort-lowest.svg",
+      "size": 479
+    },
+    {
+      "name": "sprite_icons/spam.svg",
+      "size": 803
+    },
+    {
+      "name": "sprite_icons/spinner.svg",
+      "size": 328
+    },
+    {
+      "name": "sprite_icons/stage-all.svg",
+      "size": 464
+    },
+    {
+      "name": "sprite_icons/star-o.svg",
+      "size": 1030
+    },
+    {
+      "name": "sprite_icons/star.svg",
+      "size": 475
+    },
+    {
+      "name": "sprite_icons/status-active.svg",
+      "size": 138
+    },
+    {
+      "name": "sprite_icons/status-alert.svg",
+      "size": 255
+    },
+    {
+      "name": "sprite_icons/status-cancelled.svg",
+      "size": 263
+    },
+    {
+      "name": "sprite_icons/status-failed.svg",
+      "size": 225
+    },
+    {
+      "name": "sprite_icons/status-health.svg",
+      "size": 489
+    },
+    {
+      "name": "sprite_icons/status-neutral.svg",
+      "size": 332
+    },
+    {
+      "name": "sprite_icons/status-paused.svg",
+      "size": 346
+    },
+    {
+      "name": "sprite_icons/status-running.svg",
+      "size": 311
+    },
+    {
+      "name": "sprite_icons/status-scheduled.svg",
+      "size": 248
+    },
+    {
+      "name": "sprite_icons/status-stopped.svg",
+      "size": 269
+    },
+    {
+      "name": "sprite_icons/status-success.svg",
+      "size": 302
+    },
+    {
+      "name": "sprite_icons/status-waiting.svg",
+      "size": 221
+    },
+    {
+      "name": "sprite_icons/status.svg",
+      "size": 446
+    },
+    {
+      "name": "sprite_icons/status_canceled.svg",
+      "size": 392
+    },
+    {
+      "name": "sprite_icons/status_canceled_borderless.svg",
+      "size": 518
+    },
+    {
+      "name": "sprite_icons/status_closed.svg",
+      "size": 446
+    },
+    {
+      "name": "sprite_icons/status_created.svg",
+      "size": 313
+    },
+    {
+      "name": "sprite_icons/status_created_borderless.svg",
+      "size": 177
+    },
+    {
+      "name": "sprite_icons/status_failed.svg",
+      "size": 604
+    },
+    {
+      "name": "sprite_icons/status_failed_borderless.svg",
+      "size": 1091
+    },
+    {
+      "name": "sprite_icons/status_manual.svg",
+      "size": 846
+    },
+    {
+      "name": "sprite_icons/status_manual_borderless.svg",
+      "size": 1326
+    },
+    {
+      "name": "sprite_icons/status_notfound.svg",
+      "size": 705
+    },
+    {
+      "name": "sprite_icons/status_notfound_borderless.svg",
+      "size": 580
+    },
+    {
+      "name": "sprite_icons/status_open.svg",
+      "size": 483
+    },
+    {
+      "name": "sprite_icons/status_pending.svg",
+      "size": 455
+    },
+    {
+      "name": "sprite_icons/status_pending_borderless.svg",
+      "size": 873
+    },
+    {
+      "name": "sprite_icons/status_preparing.svg",
+      "size": 388
+    },
+    {
+      "name": "sprite_icons/status_preparing_borderless.svg",
+      "size": 224
+    },
+    {
+      "name": "sprite_icons/status_running.svg",
+      "size": 352
+    },
+    {
+      "name": "sprite_icons/status_running_borderless.svg",
+      "size": 371
+    },
+    {
+      "name": "sprite_icons/status_scheduled.svg",
+      "size": 617
+    },
+    {
+      "name": "sprite_icons/status_scheduled_borderless.svg",
+      "size": 360
+    },
+    {
+      "name": "sprite_icons/status_skipped.svg",
+      "size": 737
+    },
+    {
+      "name": "sprite_icons/status_skipped_borderless.svg",
+      "size": 594
+    },
+    {
+      "name": "sprite_icons/status_success.svg",
+      "size": 498
+    },
+    {
+      "name": "sprite_icons/status_success_borderless.svg",
+      "size": 712
+    },
+    {
+      "name": "sprite_icons/status_success_solid.svg",
+      "size": 381
+    },
+    {
+      "name": "sprite_icons/status_warning.svg",
+      "size": 447
+    },
+    {
+      "name": "sprite_icons/status_warning_borderless.svg",
+      "size": 882
+    },
+    {
+      "name": "sprite_icons/stop.svg",
+      "size": 158
+    },
+    {
+      "name": "sprite_icons/strikethrough.svg",
+      "size": 532
+    },
+    {
+      "name": "sprite_icons/subgroup.svg",
+      "size": 350
+    },
+    {
+      "name": "sprite_icons/subscript.svg",
+      "size": 948
+    },
+    {
+      "name": "sprite_icons/substitute.svg",
+      "size": 422
+    },
+    {
+      "name": "sprite_icons/superscript.svg",
+      "size": 951
+    },
+    {
+      "name": "sprite_icons/symlink.svg",
+      "size": 174
+    },
+    {
+      "name": "sprite_icons/table.svg",
+      "size": 343
+    },
+    {
+      "name": "sprite_icons/tablet.svg",
+      "size": 411
+    },
+    {
+      "name": "sprite_icons/tachometer.svg",
+      "size": 699
+    },
+    {
+      "name": "sprite_icons/tag.svg",
+      "size": 486
+    },
+    {
+      "name": "sprite_icons/tanuki-verified.svg",
+      "size": 608
+    },
+    {
+      "name": "sprite_icons/tanuki.svg",
+      "size": 946
+    },
+    {
+      "name": "sprite_icons/task-done.svg",
+      "size": 452
+    },
+    {
+      "name": "sprite_icons/template.svg",
+      "size": 238
+    },
+    {
+      "name": "sprite_icons/terminal.svg",
+      "size": 501
+    },
+    {
+      "name": "sprite_icons/terraform.svg",
+      "size": 305
+    },
+    {
+      "name": "sprite_icons/text-description.svg",
+      "size": 362
+    },
+    {
+      "name": "sprite_icons/thumb-down.svg",
+      "size": 537
+    },
+    {
+      "name": "sprite_icons/thumb-up.svg",
+      "size": 532
+    },
+    {
+      "name": "sprite_icons/thumbtack.svg",
+      "size": 515
+    },
+    {
+      "name": "sprite_icons/time-out.svg",
+      "size": 558
+    },
+    {
+      "name": "sprite_icons/timer.svg",
+      "size": 440
+    },
+    {
+      "name": "sprite_icons/title.svg",
+      "size": 484
+    },
+    {
+      "name": "sprite_icons/todo-add.svg",
+      "size": 461
+    },
+    {
+      "name": "sprite_icons/todo-done.svg",
+      "size": 452
+    },
+    {
+      "name": "sprite_icons/token.svg",
+      "size": 360
+    },
+    {
+      "name": "sprite_icons/trend-down.svg",
+      "size": 216
+    },
+    {
+      "name": "sprite_icons/trend-static.svg",
+      "size": 212
+    },
+    {
+      "name": "sprite_icons/trend-up.svg",
+      "size": 216
+    },
+    {
+      "name": "sprite_icons/trigger-source.svg",
+      "size": 482
+    },
+    {
+      "name": "sprite_icons/twitter.svg",
+      "size": 737
+    },
+    {
+      "name": "sprite_icons/unapproval.svg",
+      "size": 613
+    },
+    {
+      "name": "sprite_icons/unassignee.svg",
+      "size": 470
+    },
+    {
+      "name": "sprite_icons/underline.svg",
+      "size": 313
+    },
+    {
+      "name": "sprite_icons/unlink.svg",
+      "size": 631
+    },
+    {
+      "name": "sprite_icons/unstage-all.svg",
+      "size": 496
+    },
+    {
+      "name": "sprite_icons/upgrade.svg",
+      "size": 325
+    },
+    {
+      "name": "sprite_icons/upload.svg",
+      "size": 452
+    },
+    {
+      "name": "sprite_icons/user.svg",
+      "size": 419
+    },
+    {
+      "name": "sprite_icons/users.svg",
+      "size": 651
+    },
+    {
+      "name": "sprite_icons/volume-up.svg",
+      "size": 565
+    },
+    {
+      "name": "sprite_icons/warning-solid.svg",
+      "size": 399
+    },
+    {
+      "name": "sprite_icons/warning.svg",
+      "size": 489
+    },
+    {
+      "name": "sprite_icons/weight.svg",
+      "size": 386
+    },
+    {
+      "name": "sprite_icons/work.svg",
+      "size": 470
+    }
+  ]
+}
